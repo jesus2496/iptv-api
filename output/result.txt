@@ -1,6 +1,4 @@
 🕘️更新时间,#genre#
-2026-07-07 00:21:19,url
+2026-07-07 00:30:30,url
 
-Deportes,#genre#
-
-Latinoamérica,#genre#
+Deportes Latinoamérica,#genre#
