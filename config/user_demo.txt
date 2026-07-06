@@ -1,5 +1,4 @@
 Deportes,#genre#
-ESPN,ESPN
-Fox Sports,Fox Sports
-Noticias,#genre#
-CNN,CNN
+DSport,DSport
+DSports,DSports
+DSPORT,DSPORT
