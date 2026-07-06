@@ -1,8 +1,5 @@
-Deportes,#genre#
-DSPORT,DSPORT
+Deportes Latinoamérica,#genre#
 DSports,DSports
-DSport+,DSport+
-Latinoamérica,#genre#
-CNN,CNN
-ESPN,ESPN
-Fox Sports,Fox Sports
+DirecTV Sports,DirecTV Sports
+Deportes en Vivo,deportes en vivo
+Fútbol en vivo,fútbol en vivo
